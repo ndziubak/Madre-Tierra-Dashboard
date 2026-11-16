@@ -1,10 +1,15 @@
 {
   "anuncios_propios": {
-    "airbnb_url": "PEGAR_LINK_DE_AIRBNB",
-    "booking_url": "PEGAR_LINK_DE_BOOKING"
+    "airbnb_url": "https://www.airbnb.com.ar/rooms/1669778811589616206",
+    "booking_url": "https://www.booking.com/Pulse-4RNRHq",
+    "_nota": "El link de Booking es un link corto: el relevamiento lo abre una vez para obtener la dirección /hotel/ar/... y reconocer el anuncio propio en los resultados."
   },
   "competidores_seguidos": [
-    { "nombre": "Cabaña vecina (Superanfitriona, 25 evaluaciones)", "airbnb_url": "PEGAR_LINK", "booking_url": "" }
+    {
+      "nombre": "Cabaña vecina (Superanfitriona, 25 evaluaciones)",
+      "airbnb_url": "PEGAR_LINK",
+      "booking_url": ""
+    }
   ],
   "busqueda": {
     "airbnb_dominio": "https://www.airbnb.com.ar",
@@ -13,25 +18,58 @@
     "adultos": 2,
     "moneda": "USD",
     "semanas_adelante": 10,
-    "estadias": [1, 2],
+    "estadias": [
+      1,
+      2
+    ],
     "paginas_por_busqueda": 3,
     "paginas_busqueda_profunda": 15,
-    "pausa_segundos": [4, 8]
+    "pausa_segundos": [
+      4,
+      8
+    ]
   },
-  "comisiones": { "airbnb": 0.155, "booking": 0.15 },
+  "comisiones": {
+    "airbnb": 0.155,
+    "booking": 0.15
+  },
   "descuentos_activos": {
     "airbnb_huespedes_excelentes": 0.15,
-    "booking_genius": 0.10,
-    "booking_movil": 0.10
+    "booking_genius": 0.1,
+    "booking_movil": 0.1
   },
   "piso_neto_usd_por_noche": 60,
   "_nota_piso": "Ingreso neto mínimo por noche (después de descuentos y comisión) por debajo del cual el agente nunca recomienda bajar. 60 es un valor provisorio: ajustarlo con los costos reales por noche (limpieza, lavandería, leña, gas, Starlink, recepción).",
   "fechas_especiales": [
-    { "desde": "2026-12-07", "hasta": "2026-12-08", "motivo": "Feriado Inmaculada Concepción (8/12)" },
-    { "desde": "2026-12-24", "hasta": "2027-01-03", "motivo": "Fiestas y Año Nuevo" },
-    { "desde": "2027-01-04", "hasta": "2027-02-28", "motivo": "Temporada alta de verano" },
-    { "desde": "2027-02-06", "hasta": "2027-02-09", "motivo": "Fin de semana largo de Carnaval (lun 8 y mar 9 feb)" },
-    { "desde": "2027-03-05", "hasta": "2027-03-07", "motivo": "Fin de semana de la Vendimia (confirmar fecha oficial)" },
-    { "desde": "2027-03-24", "hasta": "2027-03-28", "motivo": "24 de marzo + Semana Santa" }
+    {
+      "desde": "2026-12-07",
+      "hasta": "2026-12-08",
+      "motivo": "Feriado Inmaculada Concepción (8/12)"
+    },
+    {
+      "desde": "2026-12-24",
+      "hasta": "2027-01-03",
+      "motivo": "Fiestas y Año Nuevo"
+    },
+    {
+      "desde": "2027-01-04",
+      "hasta": "2027-02-28",
+      "motivo": "Temporada alta de verano"
+    },
+    {
+      "desde": "2027-02-06",
+      "hasta": "2027-02-09",
+      "motivo": "Fin de semana largo de Carnaval (lun 8 y mar 9 feb)"
+    },
+    {
+      "desde": "2027-03-05",
+      "hasta": "2027-03-07",
+      "motivo": "Fin de semana de la Vendimia (confirmar fecha oficial)"
+    },
+    {
+      "desde": "2027-03-24",
+      "hasta": "2027-03-28",
+      "motivo": "24 de marzo + Semana Santa"
+    }
   ]
 }

@@ -114,6 +114,16 @@ async function textoAnuncio(page, url) {
   const browser = await chromium.launch();
   const ctx = await browser.newContext({ locale: 'es-AR', timezoneId: 'America/Argentina/Mendoza', viewport: { width: 1366, height: 900 } });
   const page = await ctx.newPage();
+  // El link de Booking puede ser corto (booking.com/Pulse-...): se abre una vez para obtener /hotel/ar/...
+  const bu = cfg.anuncios_propios.booking_url || '';
+  if (bu.startsWith('http') && !bu.includes('/hotel/')) {
+    try {
+      await page.goto(bu, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      if (page.url().includes('/hotel/')) cfg.anuncios_propios.booking_url = page.url().split('?')[0];
+      console.log('Booking propio: ' + cfg.anuncios_propios.booking_url);
+    } catch (e) { console.log('No se pudo resolver el link corto de Booking: ' + e); }
+    await pausa();
+  }
   const salida = { fecha_relevamiento: iso(new Date()), config_busqueda: B, resultados: [], anuncios: [] };
 
   if (args.includes('--anuncios')) {
