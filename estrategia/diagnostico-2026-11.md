@@ -37,7 +37,12 @@ todo lo que depende de verlos está marcado como *a verificar*.
    ventana de disponibilidad de 12 meses (si es de 3 meses, no aparece para buscar febrero o marzo);
    tipo "Alojamiento entero"; tarifa de limpieza (con estadías de 1 noche infla mucho el total que ve el huésped);
    cancelaciones del anfitrión por cruces de calendario con Booking (son la penalización más fuerte de Airbnb).
-5. **La vecina usa 2 noches de mínimo y está llena.** No prueba que el mínimo de 2 noches posicione mejor,
+5. **El anuncio de la vecina parece mucho más antiguo de lo que se pensaba.** Su número de anuncio es 25538107
+   (8 cifras); por la numeración de Airbnb, esos números corresponden a anuncios creados hacia 2018. El de Madre Tierra
+   (1669778811589616206) tiene la numeración larga actual. Si la vecina reactivó un anuncio viejo, arrancó con años de
+   antigüedad e historial que el algoritmo sí tiene en cuenta, y eso explicaría por qué "salía mejor desde el comienzo".
+   *A verificar con ella:* ¿cuándo creó el anuncio y si lo tuvo publicado antes?
+6. **La vecina usa 2 noches de mínimo y está llena.** No prueba que el mínimo de 2 noches posicione mejor,
    pero sí que en temporada hay demanda para estadías de 2 noches.
 
 **Lo que no conviene hacer:** volver a subir todas las fotos o cambiar el título otra vez. No hay evidencia de que reinicie
