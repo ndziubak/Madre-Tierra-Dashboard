@@ -64,9 +64,13 @@ según lo observado, la vecina ya aparecía primera y Madre Tierra lejos desde e
 Madre Tierra tiene menos restricciones, más servicios y un precio solo US$ 10 más alto. Lo que hay que explicar es esa
 diferencia inicial. Lo que difiere desde el primer día y se puede comprobar:
 
-1. **Ubicación del pin** respecto del área que Airbnb toma como "Uspallata" (coincide con que solo se encuentra moviendo
+1. **Ubicación del pin** — la dirección cargada es "Ruta Nacional 149, 5545, Uspallata, Mendoza". Como la vecina está a
+   pocos metros y aparece primera, la zona no es el problema; solo falta confirmar que el pin propio esté de verdad junto
+   al de ella. Si está ahí, la ubicación queda descartada. No cambiar la dirección para que diga "Las Heras": ese texto
+   lo pone Airbnb solo, y la vecina con "Las Heras" no tiene ventaja por eso. **Ubicación del pin** respecto del área que Airbnb toma como "Uspallata" (coincide con que solo se encuentra moviendo
    el mapa y con que aparecen anuncios de otras localidades).
-2. **Configuración de reserva:** reserva inmediata, política de cancelación, antelación mínima y ventana de disponibilidad.
+2. ~~Configuración de reserva~~ — **descartada (16/11):** reserva inmediata activada, cancelación flexible,
+   sin antelación mínima y calendario abierto todo el año.
 3. **Calendario sincronizado con Booking:** noches bloqueadas y posibles cancelaciones del anfitrión por cruces.
 4. **Capacidad y tamaño:** 3 huéspedes y 2 dormitorios contra 2 y 1 (afecta a quien busca para 3 o filtra por dormitorios,
    no a la búsqueda de 2 adultos).
