@@ -38,6 +38,16 @@ directo, para dueños que no son técnicos.
    - **Cambios en anuncios:** como mucho 3, concretos, con el motivo.
    - **Qué no se pudo verificar.**
 
+## Quién reserva (según los dueños)
+
+Casi nadie busca "Uspallata" o "Las Heras": los huéspedes buscan "Mendoza" y van de paso, 1 a 3 noches, camino al
+Aconcagua, Penitentes, Barreal o Chile. Por eso:
+- **Paso Cristo Redentor:** antes de recomendar precios, buscá su estado (sitio oficial de pasos internacionales en
+  argentina.gob.ar o noticias de Mendoza). Si está cerrado o se anuncia un cierre, la demanda en Uspallata sube:
+  no recomiendes descuentos para esos días y sugerí subir el precio de las noches libres.
+- **Temporada del Aconcagua (diciembre a febrero):** tenela en cuenta para enero y febrero.
+- **Viajeros de último momento y 1 noche:** mantener reserva inmediata y 1 noche de mínimo entre semana.
+
 ## Reglas
 
 - **Piso neto:** nunca recomiendes un precio cuyo neto en el peor caso quede por debajo de `piso_neto_usd_por_noche`.
