@@ -67,8 +67,7 @@ diferencia inicial. Lo que difiere desde el primer día y se puede comprobar:
 1. **Ubicación del pin** — la dirección cargada es "Ruta Nacional 149, 5545, Uspallata, Mendoza". Como la vecina está a
    pocos metros y aparece primera, la zona no es el problema; solo falta confirmar que el pin propio esté de verdad junto
    al de ella. Si está ahí, la ubicación queda descartada. No cambiar la dirección para que diga "Las Heras": ese texto
-   lo pone Airbnb solo, y la vecina con "Las Heras" no tiene ventaja por eso. **Ubicación del pin** respecto del área que Airbnb toma como "Uspallata" (coincide con que solo se encuentra moviendo
-   el mapa y con que aparecen anuncios de otras localidades).
+   lo pone Airbnb solo, y la vecina con "Las Heras" no tiene ventaja por eso.
 2. ~~Configuración de reserva~~ — **descartada (16/11):** reserva inmediata activada, cancelación flexible,
    sin antelación mínima y calendario abierto todo el año.
 3. **Calendario sincronizado con Booking:** noches bloqueadas y posibles cancelaciones del anfitrión por cruces.
