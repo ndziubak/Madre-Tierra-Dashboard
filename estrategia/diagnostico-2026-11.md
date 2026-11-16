@@ -20,6 +20,8 @@ todo lo que depende de verlos está marcado como *a verificar*.
 ## Airbnb: causas probables del mal posicionamiento (ordenadas por lo que más se puede comprobar)
 
 1. **El dato de "después de 15 páginas" es en realidad "no aparece en la lista".**
+   *Actualización 16/11:* la vecina también figura como "Cabaña entero en **Las Heras**" y aparece bien, así que la
+   localidad que muestra el anuncio **no** alcanza para explicar la diferencia. Sigue pendiente ver dónde cae el pin.
    Airbnb muestra como máximo 15 páginas de 18 anuncios (~270). Si el anuncio solo aparece al mover el mapa,
    la lista lo está dejando afuera del área de la búsqueda "Uspallata". *A verificar:*
    - ¿Qué dice el anuncio debajo del título: "Alojamiento entero en **Uspallata**" o "en **Las Heras**" / "Mendoza"?
@@ -37,16 +39,30 @@ todo lo que depende de verlos está marcado como *a verificar*.
    ventana de disponibilidad de 12 meses (si es de 3 meses, no aparece para buscar febrero o marzo);
    tipo "Alojamiento entero"; tarifa de limpieza (con estadías de 1 noche infla mucho el total que ve el huésped);
    cancelaciones del anfitrión por cruces de calendario con Booking (son la penalización más fuerte de Airbnb).
-5. **El anuncio de la vecina parece mucho más antiguo de lo que se pensaba.** Su número de anuncio es 25538107
-   (8 cifras); por la numeración de Airbnb, esos números corresponden a anuncios creados hacia 2018. El de Madre Tierra
-   (1669778811589616206) tiene la numeración larga actual. Si la vecina reactivó un anuncio viejo, arrancó con años de
-   antigüedad e historial que el algoritmo sí tiene en cuenta, y eso explicaría por qué "salía mejor desde el comienzo".
-   *A verificar con ella:* ¿cuándo creó el anuncio y si lo tuvo publicado antes?
-6. **La vecina usa 2 noches de mínimo y está llena.** No prueba que el mínimo de 2 noches posicione mejor,
+5. **La vecina usa 2 noches de mínimo y está llena.** No prueba que el mínimo de 2 noches posicione mejor,
    pero sí que en temporada hay demanda para estadías de 2 noches.
 
 **Lo que no conviene hacer:** volver a subir todas las fotos o cambiar el título otra vez. No hay evidencia de que reinicie
 nada, y el soporte confirmó que el anuncio no tiene bloqueos.
+
+## Comparación con la vecina (captura de su anuncio, 16/11/2026)
+
+| | Madre Tierra | Vecina (Veronica) |
+|---|---|---|
+| Ubicación que muestra | *a verificar* | Cabaña entero en Las Heras |
+| Capacidad | 2 huéspedes · 1 dormitorio | 3 huéspedes · 2 dormitorios · 2 camas · 1,5 baños |
+| Calificación | 5,0 · 6 evaluaciones | 4,96 · 25 evaluaciones |
+| Insignias | ninguna | Favorito entre huéspedes · Superanfitriona · top 5% |
+| Antigüedad como anfitriona | similar | 6 meses |
+| Fotos | *a verificar* | 51 |
+| Precio 17→18/11, 1 noche | *a verificar* (base US$ 95) | **US$ 64** |
+| Estadía mínima | 1 noche | acepta 1 noche para el 17/11 (último momento) |
+| Canales | Airbnb + Booking | solo Airbnb |
+
+Lectura: con la misma antigüedad, la diferencia está en **precio** (US$ 64 contra US$ 80–95), **cantidad de
+evaluaciones e insignias** (25 y "Favorito entre huéspedes" contra 6 y ninguna) y en que la vecina tiene **todo su
+calendario en Airbnb**. Cuatro veces más reservas generan cuatro veces más evaluaciones, y eso le dio las insignias que la
+empujan arriba. No hace falta suponer una falla técnica para explicar la brecha.
 
 ## Booking: margen para mejorar el puesto 43 de 82
 
