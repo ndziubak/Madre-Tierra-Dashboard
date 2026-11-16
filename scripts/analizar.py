@@ -138,10 +138,12 @@ def historial(reservas, hoy):
 
 
 def fecha_especial(cfg, d):
-    for f in cfg.get('fechas_especiales', []):
-        if dt.date.fromisoformat(f['desde']) <= d <= dt.date.fromisoformat(f['hasta']):
-            return f['motivo']
-    return ''
+    """Si hay varias que coinciden (p. ej. Carnaval dentro de temporada alta), gana la más corta."""
+    coinciden = [f for f in cfg.get('fechas_especiales', [])
+                 if dt.date.fromisoformat(f['desde']) <= d <= dt.date.fromisoformat(f['hasta'])]
+    if not coinciden:
+        return ''
+    return min(coinciden, key=lambda f: dt.date.fromisoformat(f['hasta']) - dt.date.fromisoformat(f['desde']))['motivo']
 
 
 def neto(cfg, plataforma, publicado):
