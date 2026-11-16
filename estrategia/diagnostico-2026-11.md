@@ -53,16 +53,23 @@ nada, y el soporte confirmó que el anuncio no tiene bloqueos.
 | Capacidad | 2 huéspedes · 1 dormitorio | 3 huéspedes · 2 dormitorios · 2 camas · 1,5 baños |
 | Calificación | 5,0 · 6 evaluaciones | 4,96 · 25 evaluaciones |
 | Insignias | ninguna | Favorito entre huéspedes · Superanfitriona · top 5% |
-| Antigüedad como anfitriona | similar | 6 meses |
+| Antigüedad en Airbnb | misma época | 6 meses |
 | Fotos | *a verificar* | 51 |
-| Precio 17→18/11, 1 noche | *a verificar* (base US$ 95) | **US$ 64** |
-| Estadía mínima | 1 noche | acepta 1 noche para el 17/11 (último momento) |
+| Precio 17→18/11, 1 noche (con descuento huéspedes excelentes) | **US$ 74** | **US$ 64** |
+| Estadía mínima y restricciones | 1 noche, sin restricciones | 2 noches los fines de semana y más restricciones |
 | Canales | Airbnb + Booking | solo Airbnb |
 
-Lectura: con la misma antigüedad, la diferencia está en **precio** (US$ 64 contra US$ 80–95), **cantidad de
-evaluaciones e insignias** (25 y "Favorito entre huéspedes" contra 6 y ninguna) y en que la vecina tiene **todo su
-calendario en Airbnb**. Cuatro veces más reservas generan cuatro veces más evaluaciones, y eso le dio las insignias que la
-empujan arriba. No hace falta suponer una falla técnica para explicar la brecha.
+Lectura: las evaluaciones y las insignias explican por qué la diferencia **se agranda**, pero **no por qué empezó**:
+según lo observado, la vecina ya aparecía primera y Madre Tierra lejos desde el principio, cuando ninguna tenía historial.
+Madre Tierra tiene menos restricciones, más servicios y un precio solo US$ 10 más alto. Lo que hay que explicar es esa
+diferencia inicial. Lo que difiere desde el primer día y se puede comprobar:
+
+1. **Ubicación del pin** respecto del área que Airbnb toma como "Uspallata" (coincide con que solo se encuentra moviendo
+   el mapa y con que aparecen anuncios de otras localidades).
+2. **Configuración de reserva:** reserva inmediata, política de cancelación, antelación mínima y ventana de disponibilidad.
+3. **Calendario sincronizado con Booking:** noches bloqueadas y posibles cancelaciones del anfitrión por cruces.
+4. **Capacidad y tamaño:** 3 huéspedes y 2 dormitorios contra 2 y 1 (afecta a quien busca para 3 o filtra por dormitorios,
+   no a la búsqueda de 2 adultos).
 
 ## Booking: margen para mejorar el puesto 43 de 82
 
