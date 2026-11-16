@@ -64,15 +64,18 @@ según lo observado, la vecina ya aparecía primera y Madre Tierra lejos desde e
 Madre Tierra tiene menos restricciones, más servicios y un precio solo US$ 10 más alto. Lo que hay que explicar es esa
 diferencia inicial. Lo que difiere desde el primer día y se puede comprobar:
 
-1. **Ubicación del pin** — la dirección cargada es "Ruta Nacional 149, 5545, Uspallata, Mendoza". Como la vecina está a
-   pocos metros y aparece primera, la zona no es el problema; solo falta confirmar que el pin propio esté de verdad junto
-   al de ella. Si está ahí, la ubicación queda descartada. No cambiar la dirección para que diga "Las Heras": ese texto
-   lo pone Airbnb solo, y la vecina con "Las Heras" no tiene ventaja por eso.
+1. ~~Ubicación~~ — **descartada (16/11):** en el mapa de Airbnb los círculos de las dos cabañas caen en el mismo tramo
+   de la Ruta 149, entre el Parque de las Artes Marañón e Inlakesh, a pocos cientos de metros uno del otro. Airbnb muestra
+   a los huéspedes un círculo aproximado (no el punto exacto), así que esa diferencia no indica un pin mal puesto ni da
+   ventaja en la búsqueda.
 2. ~~Configuración de reserva~~ — **descartada (16/11):** reserva inmediata activada, cancelación flexible,
    sin antelación mínima y calendario abierto todo el año.
-3. **Calendario sincronizado con Booking:** noches bloqueadas y posibles cancelaciones del anfitrión por cruces.
+3. ~~Cancelaciones por cruces con Booking~~ — **descartadas (16/11):** nunca hubo cancelaciones ni problemas en Airbnb.
 4. **Capacidad y tamaño:** 3 huéspedes y 2 dormitorios contra 2 y 1 (afecta a quien busca para 3 o filtra por dormitorios,
    no a la búsqueda de 2 adultos).
+
+**Conclusión al 16/11:** del lado de Madre Tierra no queda nada configurable que explique la diferencia inicial.
+La explicación tiene que darla Airbnb (ver el mensaje para Escalaciones más abajo).
 
 ## Booking: margen para mejorar el puesto 43 de 82
 
@@ -87,3 +90,25 @@ Sin pago por adelantado) y a qué precio.
 2. Para la búsqueda Uspallata · 2 adultos · [fechas libres concretas], ¿en qué posición de la lista sale el anuncio?
 3. Las 25.687 apariciones: ¿cuántas fueron en la primera página y cuántas en búsquedas de Uspallata?
 4. ¿Hay alguna señal de precio, cancelaciones del anfitrión o tarifa de limpieza que esté bajando el anuncio?
+
+## Mensaje para Escalaciones (borrador)
+
+> Hola. Les escribo por el caso de visibilidad del anuncio 1669778811589616206.
+>
+> Revisé todo lo que está de mi lado y está descartado:
+> - Ubicación: la dirección es correcta (Ruta Nacional 149, Uspallata) y en el mapa el anuncio aparece en el mismo tramo
+>   que otro alojamiento ubicado a pocos metros, que sale primero en la lista.
+> - Configuración: reserva inmediata, cancelación flexible, sin antelación mínima y calendario abierto todo el año.
+> - Historial: 5,0 de calificación, 100% de respuesta, nunca cancelé una reserva ni tuve problemas de calendario.
+>
+> Los dos anuncios empezaron en la misma época. Desde el comienzo, antes de que ninguno tuviera evaluaciones, el otro
+> aparecía primero y el mío alrededor de la página 15, detrás de alojamientos de Potrerillos, Luján y Mendoza capital.
+>
+> No voy a volver a cambiar fotos, título ni descripción sin una razón técnica concreta. Les pido que respondan:
+> 1. Para la búsqueda Uspallata · 2 adultos · [fecha libre] · sin filtros, ¿en qué posición sale mi anuncio y por qué
+>    aparecen antes alojamientos de otras localidades?
+> 2. ¿Qué factor concreto hace que mi anuncio esté por debajo de uno ubicado a metros, con peor calificación y más
+>    restricciones?
+> 3. De las 25.687 apariciones informadas, ¿cuántas fueron en la primera página de búsquedas de Uspallata?
+>
+> Si no tienen esa información, les pido que me lo digan por escrito.
